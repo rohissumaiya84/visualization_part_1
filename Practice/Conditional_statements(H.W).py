@@ -35,4 +35,4 @@ if a>b:
 else:
     print("Stay in Bangladesh")
 
-    print("I'm ready to go Canada ")
+   
