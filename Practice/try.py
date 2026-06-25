@@ -1,0 +1,2 @@
+print("Github is a version control system. It is used to track changes in the source code during software development. It allows multiple developers to work on a project simultaneously, manage code versions, and collaborate effectively. GitHub provides a web-based interface for hosting Git repositories, making it easier to share code, " \
+"review changes, and contribute to open-source projects.")
